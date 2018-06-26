@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages from S.L.A.M. VSoft
 
 You can use the [editor on GitHub](https://github.com/SLAM-VSoft/corgranrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
