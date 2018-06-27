@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages from S.L.A.M. VSoft
 
-You can use the [editor on GitHub](https://github.com/SLAM-VSoft/corgranrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Hi there! Welcome to Cloud9 IDE!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To get you started, we have created a small hello world application.
 
-```markdown
-Syntax highlighted code block
+1) Open the hello-world.php file
 
-# Header 1
-## Header 2
-### Header 3
+2) Follow the run instructions in the file's comments
 
-- Bulleted
-- List
+3) If you want to look at the Apache logs, check out ~/lib/apache2/log
 
-1. Numbered
-2. List
+And that's all there is to it! Just have fun. Go ahead and edit the code, 
+or add new files. It's all up to you! 
 
-**Bold** and _Italic_ and `Code` text
+Happy coding!
+The Cloud9 IDE team
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Support & Documentation
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SLAM-VSoft/corgranrepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
+To watch some training videos, visit http://www.youtube.com/user/c9ide
