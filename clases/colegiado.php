@@ -5,9 +5,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
     namespace app\clases;
+    require_once 'clases/coneccion.php';
     use \mysqli;
+    use \mysqli_query;
+    use \mysqli_error;
+    use \mysql_fetch_assoc;
+    use  app\clases\coneccion;
+	$obj_coneccion = new coneccion; //
 /**
  * Description of cuotas
  *
@@ -31,7 +36,7 @@ class colegiado {
         $conn = $obj_coneccion->conectar();
         
         $sql = "INSERT INTO usuario (id_usuario, nro_colegiado)
-        VALUES ('$colegiado->id_usuario.','$colegiado->nro_colegiado')";
+        VALUES ('$colegiado->id_usuario','$colegiado->nro_colegiado')";
 
         if ($conn->query($sql) === TRUE) {
             $result = $conn->lastInsertRowID();
@@ -43,22 +48,22 @@ class colegiado {
         return $result;
     }
 
-    public function borrar_colegiado($id_colegiado){
+    public function borrar_colegiado($id_usuario){
         
          // Create connection
         $conn = $obj_coneccion->conectar();
         
-        $sql = "Delete from colegiado where id_usuario ="$id_colegiado;
+        $sql = "Delete from colegiado where id_usuario ='$id_usuario'";
         
         mysqli_query($conn,$sql) or die(mysqli_error($conn));
         
         $conn->close();
     }
     
-    public function buscar_colegiado($id_usuario):
+    public function buscar_colegiado($id_usuario)
     {
         $conn = $obj_coneccion->conectar();
-        $sql= "select id_colegiado, id_usuario,nro_colegiado from colegiado";
+        $sql= "select id_colegiado, id_usuario,nro_colegiado from colegiado where id_usario='$id_usuario'";
         $resultado = mysqli_query($conn,$sql);
         
         while ($fila = mysql_fetch_assoc($resultado)) {
@@ -74,7 +79,7 @@ class colegiado {
         // Create connection
         $conn = $obj_coneccion->conectar();
         
-        $sql = "Update colegiado set nro_colegiado='$nro_colegiado' where id_usuario =''";
+        $sql = "Update colegiado set nro_colegiado='$nro_colegiado' where id_usuario ='$id_usuario'";
         
         mysqli_query($conn,$sql) or die(mysqli_error($conn));
         

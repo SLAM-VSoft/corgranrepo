@@ -7,7 +7,13 @@
  */
 
     namespace app\clases;
+    require_once 'clases/coneccion.php';
     use \mysqli;
+    use \mysqli_query;
+    use \mysqli_error;
+    use \mysql_fetch_assoc;
+    use  app\clases\coneccion;
+	$obj_coneccion = new coneccion; //
 /**
  * Description of cuotas
  *
@@ -36,7 +42,7 @@ class cuota {
             $this->fecha_cta=$fecha_cta;
                 } 
         
-    public static function listaCta($id_colegiado): array
+    public static function listaCta($id_colegiado)
         {
             $servername = "localhost";
             $username = "root";
@@ -51,16 +57,16 @@ class cuota {
             } 
 
             $sql = "SELECT `id_cuota`,`idcolegiados`,`fec_pago`,`tipo_cuota`,`monto`,`estado`,"
-                    . "`interes`,`pago_adelantado`,`nro_cta`,`fecha_cta` FROM noticias where idcolegiados =".$id_colegiado ;
+                    . "`interes`,`pago_adelantado`,`nro_cta`,`fecha_cta` FROM cuotas where idcolegiados =".$id_colegiado ;
             $result = $conn->query($sql);
 
             if ($result->num_rows > 0) {
                 // output data of each row
                 while($row = $result->fetch_assoc()) {
-                    $noticia = new cuota($row["id_cuota"],$row["idcolegiados"],
+                    $cuota = new cuota($row["id_cuota"],$row["idcolegiados"],
                                $row["fec_pago"],$row["tipo_cuota"],$row["monto"],$row["estado"],
                                $row["interes"],$row["pago_adelantado"],$row["nro_cta"],$row["fecha_cta"]);
-                $resultado[] = $noticia;                    
+                $resultado[] = $cuota;                    
                 }
                 return $resultado;
             } else {

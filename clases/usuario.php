@@ -9,6 +9,9 @@
     namespace app\clases;
     require_once 'clases/coneccion.php';
     use \mysqli;
+    use \mysqli_query;
+    use \mysqli_error;
+    use \mysql_fetch_assoc;
     use  app\clases\coneccion;
 	$obj_coneccion = new coneccion; //
 
