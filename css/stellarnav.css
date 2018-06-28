@@ -29,8 +29,8 @@
 .stellarnav li.drop-left ul ul { left: auto; right: 220px; }
 
 /* light theme */
-.stellarnav.light { background: rgba(255, 255, 255, 1); }
-.stellarnav.light ul ul { background: rgba(255, 255, 255, 1); }
+/*.stellarnav.light {  }*/
+.stellarnav.light ul ul { background: rgba(255, 255, 255, 0.7); }
 .stellarnav.light li a { color: #444; }
 .stellarnav.light .menu-toggle, .stellarnav.light .call-btn-mobile, .stellarnav.light .location-btn-mobile, .stellarnav.light .close-menu { color: rgba(0, 0, 0, 1); }
 
@@ -58,7 +58,7 @@ body.stellarnav-noscroll-x { overflow-x: hidden; }
 .stellarnav li.open > a.dd-toggle i { -webkit-transform: rotate(135deg); -ms-transform: rotate(135deg); -o-transform: rotate(135deg); transform: rotate(135deg); }
 
 /* mobile nav */
-.stellarnav .menu-toggle, .stellarnav .call-btn-mobile, .stellarnav .location-btn-mobile, .stellarnav .close-menu { color: #777; padding: 15px; box-sizing: border-box; }
+.stellarnav .menu-toggle, .stellarnav .call-btn-mobile, .stellarnav .location-btn-mobile, .stellarnav .close-menu { color: #777; padding: 15px; box-sizing: border-box; font-weight: bold; }
 .stellarnav .full { width: 100%; }
 .stellarnav .half { width: 50%; }
 .stellarnav .third { width: 33%; text-align: center; }
