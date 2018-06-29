@@ -46,9 +46,9 @@
 body.stellarnav-noscroll-x { overflow-x: hidden; }
 
 /* general styling */
-.stellarnav li.has-sub > a:after { font-family: 'FontAwesome'; content: '\f107'; margin-left: 10px; }
-.stellarnav li li.has-sub > a:after { content: '\f105'; font-family: 'FontAwesome'; margin-left: 10px; }
-.stellarnav li.drop-left li.has-sub > a:after { float: left; content: '\f104'; font-family: 'FontAwesome'; margin-right: 10px; }
+/*.stellarnav li.has-sub > a:after { font-family: 'FontAwesome'; content: '\f107'; margin-left: 10px; }*/
+/*.stellarnav li li.has-sub > a:after { content: '\f105'; font-family: 'FontAwesome'; margin-left: 10px; }*/
+/*.stellarnav li.drop-left li.has-sub > a:after { float: left; content: '\f104'; font-family: 'FontAwesome'; margin-right: 10px; }*/
 .stellarnav.hide-arrows li.has-sub > a:after, .stellarnav.hide-arrows li li.has-sub > a:after, .stellarnav.hide-arrows li.drop-left li.has-sub > a:after { display: none; }
 .stellarnav .menu-toggle, .stellarnav .close-menu, .stellarnav .call-btn-mobile, .stellarnav .location-btn-mobile { display: none; text-transform: uppercase; text-decoration: none; }
 .stellarnav .dd-toggle { display: none; position: absolute; top: 0; right: 0; padding: 0; width: 48px; height: 48px; text-align: center; z-index: 9999; border: 0; }
