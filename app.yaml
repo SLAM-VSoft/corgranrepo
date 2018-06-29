@@ -21,10 +21,18 @@ handlers:
   login: required
   auth_fail_action: redirect
 
-- url: /admin
-  script: header.php
-  
+- url: /index
+  script: index.php
+  login: required
+  auth_fail_action: redirect
+
 - url: /main
   script: index.php
   login: required
   auth_fail_action: redirect
+
+- url: /ingresar
+  script: ingresar.php
+
+- url: /admin
+  script: header.php
