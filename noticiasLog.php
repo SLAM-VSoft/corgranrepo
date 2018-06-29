@@ -5,7 +5,7 @@
 				    	<p class="card-text">Inicia 21 de Abril 2018 c. Inscripciones Abiertas . Cupo limitado.</p>
 				    	<a href="#" class="btn btn-primary rounded-0 mb-3">Leer mas...</a>
 				    	<div class="card-footer text-muted">
-                        24/02/2018.............
+                        24/02/2018
                         </div>
                     </div>
                 </div>

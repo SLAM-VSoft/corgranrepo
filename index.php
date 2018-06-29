@@ -14,94 +14,87 @@
             </div>
             <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;">
                 <div data-p="225.00">
-                    <img data-u="image" src="img/0012.jpg" />
+                    <img data-u="image" src="img/slider1.jpg" />
                     <div style="position:absolute;top:24px;left:571px;width:628px;height:428px;">
                         <div data-u="caption" data-t="0" style="position:absolute;top:21px;left:50px;width:549px;height:393px;background-color:rgba(255,255,255,0.3);border:1px solid #ffffff;box-sizing:border-box;"></div>
-                        <div data-u="caption" data-t="1" style="position:absolute;top:50px;left:200px;width:465px;height:121px;font-family:Arial,Helvetica,sans-serif;font-size:48px;font-weight:900;color:#ffffff;line-height:1.1;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                            <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Enterprise <br />introduction
+                        <div data-u="caption" data-t="1" style="position:absolute;top:30px;left:180px;width:465px;height:121px;font-family:Arial,Helvetica,sans-serif;font-size:2.5em;font-weight:900;color:#ffffff;line-height:1.1;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
+                            <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Nueva desacarga
                             </span>
                         </div>
                         <div data-u="caption" data-t="2" style="position:absolute;top:21px;left:38px;width:572px;height:1px;background-color:#ffffff;"></div>
                         <div data-u="caption" data-t="3" style="position:absolute;top:413px;left:38px;width:572px;height:1px;background-color:#ffffff;"></div>
                         <div data-u="caption" data-t="4" style="position:absolute;top:11px;left:50px;width:1px;height:414px;background-color:#ffffff;"></div>
                         <div data-u="caption" data-t="5" style="position:absolute;top:11px;left:598px;width:1px;height:414px;background-color:#ffffff;"></div>
-                        <a href="#" data-u="caption" data-t="6" style="display:block; position:absolute;top:299px;left:93px;width:280px;height:60px;overflow:hidden;z-index:1;">
-                            <div data-u="caption" data-t="7" style="position:absolute;top:0px;left:0px;width:280px;height:60px;background-color:#0086df;border-radius:5px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;">Read more</div>
-                            <div data-u="caption" data-t="8" style="position:absolute;top:0px;left:0px;width:280px;height:60px;background-color:#0086df;border-radius:5px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;">Read more</div>
+                        <a href="descargas.php" class="btn btn-primary btn-lg rounded-0" data-u="caption" data-t="6" style="display:block; position:absolute;top:320px;left:93px;overflow:hidden;z-index:1;">
+                            Descargas
                         </a>
-                        <div data-u="caption" data-t="9" style="position:absolute;top:179px;left:150px;width:426px;height:82px;font-size:24px;font-weight:700;color:#000000;line-height:1.3;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                            <div>Summary description of enterprise introduction</div>
-                            <div><br />
+                        <div data-u="caption" data-t="9" style="position:absolute;top:80px;left:130px;width:426px;height:82px;font-size:24px;font-weight:700;color:#000000;line-height:1.3;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
+                            <div>Se encuentra disponible para descarga el acta de Asamblea Ordinaria Nº2.</div>
+                            <div><smal>El proximo 30 de junio, a las 9.30 hs se llevará adelante la Asamblea Ordinaria Nº3 . Centro Comunitario  Barrio Amel. Viedma</smal><br />
                             </div>
                         </div>
                     </div>
                 </div>
                 <div data-p="225.00">
-                    <img src="img/consumer.jpg" style="display:block;height:100%;width:auto;margin-left:auto;margin-right:auto;" />
-                    <a href="#" style="display:block; position:absolute;top:167px;left:80px;width:240px;height:240px;overflow:hidden;z-index:1;">
+                    <img src="img/slider2.jpg" style="display:block;height:100%;width:auto;margin-left:auto;margin-right:auto;" />
+                    <a href="http://www.facebook.com/colrionegrinogradnutricion/" target="_blank" style="display:block; position:absolute;top:167px;left:80px;width:240px;height:240px;overflow:hidden;z-index:1;">
                         <div data-u="caption" data-t="10" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border:1.5px solid #ffffff;border-radius:120px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;box-sizing:border-box;"></div>
-                        <img style="position:absolute;top:0px;left:0px;width:240px;height:240px;border-radius:120px;" src="img/0015.jpg" />
+                        <img style="position:absolute;top:0px;left:0px;width:240px;height:240px;border-radius:120px;" src="img/facebook.jpg" />
                         <div data-u="caption" data-t="11" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border-radius:120px;font-size:24px;font-weight:700;color:#003941;line-height:2.3;text-align:center;"></div>
                     </a>
                     <a href="#" style="display:block; position:absolute;top:167px;left:384px;width:240px;height:240px;overflow:hidden;z-index:1;">
-                        <div data-u="caption" data-t="12" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border:1.5px solid #ffffff;border-radius:120px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;box-sizing:border-box;"></div>
-                        <img style="position:absolute;top:0px;left:0px;width:240px;height:240px;border-radius:120px;" src="img/0016.jpg" />
-                        <div data-u="caption" data-t="13" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border-radius:120px;font-size:24px;font-weight:700;color:#003941;line-height:2.3;text-align:center;"></div>
+                        <div data-u="caption" data-t="12" style="position:absolute;top:0px;left:0px;width:240px;height:240px;"></div>
+                        <div data-u="caption" data-t="13" style="position:absolute;top:0px;left:0px;width:240px;height:240px;"></div>
                     </a>
                     <a href="#" style="display:block; position:absolute;top:167px;left:689px;width:240px;height:240px;overflow:hidden;z-index:1;">
-                        <div data-u="caption" data-t="14" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border:1.5px solid #ffffff;border-radius:120px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;box-sizing:border-box;"></div>
-                        <img style="position:absolute;top:0px;left:0px;width:240px;height:240px;border-radius:120px;" src="img/0017.jpg" />
-                        <div data-u="caption" data-t="15" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border-radius:120px;font-size:24px;font-weight:700;color:#003941;line-height:2.3;text-align:center;"></div>
+                        <div data-u="caption" data-t="14" style="position:absolute;top:0px;left:0px;width:240px;height:240px;"></div>
+                        <div data-u="caption" data-t="15" style="position:absolute;top:0px;left:0px;width:240px;height:240px;"></div>
                     </a>
                     <a href="#" style="display:block; position:absolute;top:167px;left:981px;width:240px;height:240px;overflow:hidden;z-index:1;">
-                        <div data-u="caption" data-t="16" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border:1.5px solid #ffffff;border-radius:120px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;box-sizing:border-box;"></div>
-                        <img style="position:absolute;top:0px;left:0px;width:240px;height:240px;border-radius:120px;" src="img/0018.jpg" />
-                        <div data-u="caption" data-t="17" style="position:absolute;top:0px;left:0px;width:240px;height:240px;background-color:rgba(255,255,255,0.15);border-radius:120px;font-size:24px;font-weight:700;color:#003941;line-height:2.3;text-align:center;"></div>
+                        <div data-u="caption" data-t="16" style="position:absolute;top:0px;left:0px;width:240px;height:240px;"></div>
+                        <div data-u="caption" data-t="17" style="position:absolute;top:0px;left:0px;width:240px;height:240px;"></div>
                     </a>
                     <div data-u="caption" data-t="18" style="position:absolute;top:53px;left:-514px;width:467px;height:57px;font-size:48px;font-weight:900;color:#ffffff;line-height:1;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Applications</span>
+                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Seguinos en Facebook</span>
                     </div>
                     <div style="position:absolute;top:422px;left:91px;width:202px;height:34px;font-size:22px;font-weight:700;color:#ffffff;line-height:1.2;text-align:center;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Application 1</span>
+                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Facebook</span>
                     </div>
                     <div style="position:absolute;top:422px;left:393px;width:202px;height:34px;font-size:22px;font-weight:700;color:#ffffff;line-height:1.2;text-align:center;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Application 2</span>
                     </div>
                     <div style="position:absolute;top:422px;left:712px;width:202px;height:34px;font-size:22px;font-weight:700;color:#ffffff;line-height:1.2;text-align:center;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Application 3</span>
                     </div>
                     <div style="position:absolute;top:422px;left:1014px;width:202px;height:34px;font-size:22px;font-weight:700;color:#ffffff;line-height:1.2;text-align:center;padding:5px 5px 5px 5px;box-sizing:border-box;">
-                        <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">Application 4</span>
                     </div>
                 </div>
                 <div data-p="225.00">
-                    <img data-u="image" src="img/0013.jpg" />
+                    <img data-u="image" src="img/slider3.jpg" />
                     <div style="position:absolute;top:50px;left:50px;width:610px;height:410px;">
-                        <div data-u="caption" data-t="19" style="position:absolute;top:470px;left:80px;width:414px;height:60px;font-size:48px;font-weight:900;color:#ffffff;line-height:1.2;text-align:left;">
-                            <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">cooperation</span>
+                        <div data-u="caption" data-t="19" style="position:absolute;top:470px;left:80px;width:500px;height:60px;font-size:2em;font-weight:900;color:#ffffff;line-height:1.2;text-align:left;">
+                            <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">¿Dudas sobre tu alimentación?</span>
                         </div>
-                        <div data-u="caption" data-t="20" style="position:absolute;top:419px;left:84px;width:393px;height:73px;background-color:rgba(255,255,255,0.5);font-size:24px;font-weight:700;color:#000000;line-height:1.3;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
+                        <div data-u="caption" data-t="20" style="position:absolute;top:419px;left:84px;width:475px;height:85px;background-color:rgba(255,255,255,0.5);font-size:2.2em;font-weight:700;color:#000000;line-height:1.3;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
                             <div>
-                                <div>An overview of cooperative information</div>
+                                <div>Consultá a tu Lic. en Nutrición</div>
                             </div>
-                            <div><br />
+                            <div><small>#NoAlIntrusismoenNutricion</small><br />
                             </div>
                         </div>
-                        <a href="#" data-u="caption" data-t="21" style="display:block; position:absolute;top:250px;left:84px;width:280px;height:60px;overflow:hidden;z-index:1;">
-                            <div style="position:absolute;top:0px;left:0px;width:280px;height:60px;background-color:#ffa904;border-radius:5px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;">Read more</div>
-                            <div data-u="caption" data-t="22" style="position:absolute;top:0px;left:0px;width:280px;height:60px;background-color:#ffd204;border-radius:5px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;">Read more</div>
+                        <a href="#" class="btn btn-primary btn-lg rounded-0" data-u="caption" data-t="21" style="display:block; position:absolute;top:250px;left:84px;overflow:hidden;z-index:1;">
+                        Leer mas..
                         </a>
                     </div>
                 </div>
                 <div data-p="225.00">
-                    <img data-u="image" src="img/0014.jpg" />
+                    <img data-u="image" src="img/slider4.jpg" />
+                    <!--
                     <div style="position:absolute;top:50px;left:50px;width:610px;height:410px;">
                         <div data-u="caption" data-t="23" style="position:absolute;top:47px;left:674px;width:303px;height:60px;font-size:48px;font-weight:900;color:#ffffff;line-height:1.2;text-align:left;">
-                            <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;">contact</span>
+                            <span style="font-kerning:2px;text-shadow:3px 3px #000000;text-transform:uppercase;"></span>
                         </div>
                         <div data-u="caption" data-t="24" style="position:absolute;top:419px;left:102px;width:307px;height:73px;background-color:rgba(255,255,255,0.5);font-size:24px;font-weight:700;color:#000000;line-height:1.3;text-align:left;padding:5px 5px 5px 5px;box-sizing:border-box;">
                             <div>
-                                <div>An overview of contact information</div>
+                                <div></div>
                             </div>
                             <div><br />
                             </div>
@@ -111,6 +104,7 @@
                             <div data-u="caption" data-t="27" style="position:absolute;top:0px;left:0px;width:280px;height:60px;background-color:#06f5df;border-radius:5px;font-size:24px;font-weight:700;color:#ffffff;line-height:2.3;text-align:center;">Read more</div>
                         </a>
                     </div>
+                    -->
                 </div>
             </div>
             <!-- Bullet Navigator -->
@@ -139,7 +133,7 @@
 	<!-- /SLIDER-->
 	<div class="container-fluid">
 	    <!-- DESTACADOS -->
-		<div class="row align-items-center mb-3">
+		<div class="row mb-3">
 			<div class="col-sm-4">
 				<!-- DESTACADO1 -->
 				<div class="card text-center border-0 mb-3">
@@ -168,7 +162,7 @@
 					<div class="card-body blanco red">
     					<h5 class="card-title">Consulte su cuenta</h5>
     					<p class="card-text">Desde nuestro portal de servicios podra informarse sobre el estado de su cuenta</p>
-    					<a href="#" class="btn btn-light rounded-0">Ingresar</a>
+    					<a href="ingresar.php" class="btn btn-light rounded-0">Ingresar</a>
   					</div>
 				</div>
 				<!-- /DESTACADO3 -->

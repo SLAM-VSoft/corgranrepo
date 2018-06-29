@@ -32,9 +32,10 @@ session_start();
     
 </head>
 <body>
+<a id="back-to-top" href="#" class="btn btn-primary rounded-0 btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
     <div class="container-fluid">
 		<!-- HEADER -->
-	    <div class="row align-items-end justify-content-center mb-3">
+	    <div class="row align-items-end mb-3">
 		    <div class="col-lg-3">
 			    <a href="index.php"><img id="imglogo" alt="Colegio Rionegrino de graduados en nutrición" src="img/logocrgn250.jpg" /></a>
 		    </div>
@@ -54,7 +55,27 @@ session_start();
 							jQuery('.stellarnav').stellarNav({
 								theme: 'light',
 							});
-							
+							$(window).scroll(function () {
+                            if ($(this).scrollTop() > 50) {
+                            $('#back-to-top').tooltip();
+                            $('#back-to-top').fadeIn();
+                            } else { $('#back-to-top').fadeOut();
+                            $('#back-to-top').tooltip('hide');}
+                            });
+
+// scroll body to 0px on click
+
+$('#back-to-top').click(function () {
+
+$('body,html').animate({
+
+scrollTop: 0
+
+}, 800);
+
+return false;
+
+});
 /* Aquí comienza el bloque que se incluye solo en el index.php */
 							
 							var jssor_1_SlideoTransitions = [
@@ -90,6 +111,7 @@ session_start();
 
             var jssor_1_options = {
               $AutoPlay: 1,
+              $AutoPlayInterval: 5000,
               $SlideDuration: 800,
               $SlideEasing: $Jease$.$OutQuint,
               $CaptionSliderOptions: {

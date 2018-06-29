@@ -10,91 +10,83 @@
 			<div class="col-lg-9">
 			    <h5>Quienes somos</h5>
 			    <hr>
-			    <div class="row mb-3">
-			        <div class="col-md-6">
-			            <div class="card-body card-background">
-    			            <h6>Sobre el Colegio</h6>
-    			            <p class="text-justify font-italic lead">Graduados en nutrición matriculados en cumplimiento de la ley Nº 4793 de la provincia de Rio Negro, comprometidos con el ejercicio ético de la profesión. Con títulos de Dietistas, Nutricionistas-Dietistas, Licenciados en Nutrición y todo otro título que requiera los conocimientos y formación académica referida a las ciencias de la nutrición.</p>
-    			            <h6>Funciones y Atribuciones</h6>
-    			            <div id="carouselFunciones" class="carousel slide" data-ride="carousel">
-    			                <a class="" href="#carouselFunciones" role="button" data-slide="prev">
-                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                    <span class="sr-only">Anterior</span>
-                                </a>
-                                <a class="" href="#carouselFunciones" role="button" data-slide="next">
-                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                    <span class="sr-only">Siguiente</span>
-                                </a>
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <ul>
-                                            <li>a. Representar profesionalmente a todos los matriculados ante los poderes públicos, colegios profesionales, entidades nutricionales provinciales, nacionales e internacionales.</li>
-                                            <li>b. Mantener un registro de inscriptos debidamente actualizado, comunicando a las instituciones y organismos pertinentes.</li>
-                                            <li>c. Velar y exigir el cumplimiento de las disposiciones de la ley G nº 4011, la presente y los reglamentos que en su consecuencia se dicten.</li>
-                                        </ul>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <ul>
-                                            <li>d. Ejercer el poder disciplinario sobre los profesionales inscriptos.</li>
-                                            <li>e. Denunciar el ejercicio ilegal de la profesión por parte de personas no matriculadas ante las autoridades que correspondan.</li>
-                                            <li>f. Sancionar el Estatuto del Colegio y el Código de Etica Profesional.</li>
-                                            <li>g. Contribuir al mejoramiento de la carrera universitaria de nutrición, conviniendo con universidades del país o del extranjero, la realización de actividades científicas y culturales.</li>
-                                        </ul>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <ul>
-                                            <li>h. Instituir becas y/o premios estímulos a los estudiantes universitarios de las carreras colegiadas, conforme a las reglamentaciones que a tales efectos se dicten por la asamblea, propiciando la investigación científica.</li>
-                                            <li>i. Organizar, subvencionar, auspiciar, patrocinar y/o participar en congresos, conferencias y reuniones que se realicen con fines útiles a la profesión.</li>
-                                            <li>j. El Colegio no podrá inmiscuirse u opinar en cuestiones de carácter político, religioso o de cualquier otra índole que sea ajena al cumplimiento específico de los fines de la presente ley.</li>
-                                            
-                                        </ul>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <ul>
-                                            <li>k. Confeccionar y mantener actualizado un legajo de cada profesional inscripto.</li>
-                                            <li>l. Velar por la armonía entre los profesionales inscriptos, promoviendo el arbitraje para dirimir conflictos entre ellos y/o terceros.</li>
-                                            <li>m. Realizar cualquier acto encaminado al logro de los objetivos propuestos en esta ley.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-    	                </div>
-			        </div>
-			        <div class="col-md-6">
-			            <div class="card-body card-background">
-                            <h6>Autoridades Actuales</h6>
-                            <div class="row">
-    			                <div class="col-sm-6">
-    			                    <p><strong>Consejo Directivo Provincial</strong></p>
-    			                    <ul>
-    			                        <li>Presidente: Lascano Sonia Andrea</li>
-    			                        <li>Vicepresidente: Suarez Adriana Edith</li>
-    			                        <li>Secretaria: Menna Lorena Mercedes</li>
-    			                        <li>Tesorera: Salgado Agustina Ines</li>
-    			                        <li>1 Vocales Titulares: Ferrer Julia Mercedes</li>
-    			                        <li>2 Vocales Titulares: Yearson Alejandra</li>
-    			                        <li>1 Vocal Suplente: Melis María Julieta</li>
-    			                        <li>2 Vocal Suplente: Rossi Luciana</li>
-    			                    </ul>
-    			                </div>
-    			                <div class="col-sm-6">
-    			                    <p><strong>Comisión Revisora de Cuentas</strong></p>
-    			                    <ul>
-    			                        <li>Tassara Lorena</li>
-    			                        <li>Molinari María Inés</li>
-    			                        <li>Suplente: Gonzalez Mariana Gisella</li>
-    			                    </ul>
-    			                    <p><strong>Tribunal de Ética y Disciplina</strong></p>
-    			                    <ul>
-    			                        <li>Córdoba Jaime Matías</li>
-    			                        <li>Charro Karina Beatriz</li>
-    			                        <li>García María Laura</li>
-    			                        <li>Suplente: Lo Presti Antonella Noé</li>
-    			                    </ul>
-    			                </div>
-                            </div>
-		                </div>
-			        </div>
+			    <div class="row mb-3 p-3">
+			        <div id="descargas" class="col-md-12 p-3">
+			            <div class="list-group">
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">Estatuto del Colegio Rionegrino de Graduados en Nutrición</p>
+                                    <footer class="blockquote-footer">Aprobado en asamblea</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">Ley 4011</p>
+                                    <footer class="blockquote-footer">Ley de ejercicio profesional</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">NOMECLADOR DE MÍNIMOS ÉTICOS 2016</p>
+                                    <footer class="blockquote-footer">Son aranceles de referencia para el ejercicio de la profesión; se caracteriza por categorizar las actividades de la practica. En el año 2015-2016, se formo una comisión por integrantes del colegio quien elaboro el nomeclador que luego fue aprobado en el Consejo Directivo Provincial y presentado en la asamblea ordinaria del año 2016.</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">Ley de creación del Colegio Rionegrino de Graduados en Nutrición</p>
+                                    <footer class="blockquote-footer">Los graduados en nutrición, tienen la obligación de colegiarse para el ejercicio ética de la profesión. Si conoce profesionales que ejercen sin estarlo, denuncie.</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">SOLICITUD DE CERTIFICADOS DE ÉTICA</p>
+                                    <footer class="blockquote-footer">SOLICITUD DE CERTIFICADOS DE ÉTICA.</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">REGLAMENTO DE DELEGACIONES</p>
+                                    <footer class="blockquote-footer">REGLAMENTO DE DELEGACIONES</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">ESTATUTO DEL COLEGIO RIONEGRINO DE GRADUADOS EN NUTRICION</p>
+                                    <footer class="blockquote-footer">EN ASAMBLEA ORDINARIA FUERON MODIFICADOS DISTINTOS ARTICULOS REFERENTE A LA ORGANIZACION DEL COLEGIO Y PROMOVEER LA PARTICIPACION.</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">Nota de Solicitud de Colegiación</p>
+                                    <footer class="blockquote-footer">Deberá llenar los campos y enviar original firmado.</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">REGLAMENTO DE COLEGIACION</p>
+                                    <footer class="blockquote-footer">Este documento tiene todo la información detallada de los requisitos para colegiarse, solicitar la baja.</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">Boletin Informativo Nº1 -2018</p>
+                                    <footer class="blockquote-footer">Actividades realizadas desde Nov 2017 a Abril 2018</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">Incumbencias del titulo de Lic. en Nutrición</p>
+                                    <footer class="blockquote-footer">Alcance de las incumbencias para dar asignaturas en las Escuelas Secundarias Rionegrinas</footer>
+                                </blockquote>
+                            </a>
+                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                                <blockquote class="blockquote">
+                                    <p class="mb-0">ASAMBLEA ORDINARIA 26 DE AGOSTO 2017</p>
+                                    <footer class="blockquote-footer">Asamblea Ordinaria Nº2</footer>
+                                </blockquote>
+                            </a>
+                        </div>
+                    </div>
 			    </div>
 			</div>
 			<!-- SIDEBAR -->

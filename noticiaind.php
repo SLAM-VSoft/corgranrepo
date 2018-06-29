@@ -2,13 +2,11 @@
     require_once 'header.php';
 ?>
 	<!-- /HEADER -->
+	<div class="w-screen d-block hidden-sm-down mb-3">
+    
+    </div>
 	<div class="container-fluid">
 		<!-- CONTENIDO PRINCIPAL -->
-		<div class="row">
-		    <div class="col-sm-12">
-		        <img class="img-fluid mb-3" src="img/headimg1.jpg" alt="Ingresar">
-		    </div>
-		</div>
 		<div class="row mb-3">
 			<div class="col-md-9">
 			    <h5>Inscripción para el curso de Formación de Cuidadores Domiciliarios</h5>

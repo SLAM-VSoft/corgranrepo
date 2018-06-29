@@ -7,15 +7,16 @@
     //https://disenowebakus.net/llevando-datos-de-las-paginas-php-a-la-base-mysql.php
 
 ?>
+
 <script>
     function realizaProceso(valorCaja1, valorCaja2){
 
         $.ajax({
-                data:{clave: valorCaja1, nombre: valorCaja2}
+                data:{clave: valorCaja1, nombre: valorCaja2},
                 url:   'ajaxUsuario.php',
                 type:  'post',
                 beforeSend: function () {
-                        $("#resultado").html("Procesando, espere por favor...");
+                        //$("#resultado").html("Procesando, espere por favor...");
                 },
                 success:  function (response) {
                         $("#resultado").html(response);

@@ -18,7 +18,7 @@
 	    	</ul>
 	    </li>
 	    <li>
-	        <a href="ingresar.php"><i class="fas fa-download"></i></i>DESCARGAS</a>
+	        <a href="descargas.php"><i class="fas fa-download"></i></i>DESCARGAS</a>
 	    </li>
 	    <li>
 	        <a href="ingresar.php"><i class="fas fa-sign-in-alt"></i>INGRESAR</a>

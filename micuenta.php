@@ -2,13 +2,11 @@
     require_once 'header.php';
 ?>
 	<!-- /HEADER -->
+<div class="w-screen d-block hidden-sm-down mb-3">
+    
+</div>
 	<div class="container-fluid">
 		<!-- CONTENIDO PRINCIPAL -->
-		<div class="row">
-		    <div class="col-sm-12">
-		        <img class="img-fluid mb-3" src="img/headimg1.jpg" alt="Mi cuenta">
-		    </div>
-		</div>
 		<div class="row mb-3">
 			<div class="col-md-9">
 			    <h5>Mi cuenta</h5>
@@ -43,7 +41,7 @@
                                     <th scope="row">01</th>
                                     <td>Pagada</td>
                                     <td>03/01/2018</td>
-                                    <td>$ 1350,-</td>
+                                    <td>$ 200,-</td>
                                     <td>07/01/2018</td>
                                     <td>$ 00,-</td>
                                     <td>NO</td>
@@ -54,7 +52,7 @@
                                     <th scope="row">02</th>
                                     <td>Pagada</td>
                                     <td>02/02/2018</td>
-                                    <td>$ 1350,-</td>
+                                    <td>$ 200,-</td>
                                     <td>05/02/2018</td>
                                     <td>$ 00,-</td>
                                     <td>NO</td>
@@ -65,7 +63,7 @@
                                     <th scope="row">03</th>
                                     <td>Pagada</td>
                                     <td>04/03/2018</td>
-                                    <td>$ 1350,-</td>
+                                    <td>$ 200,-</td>
                                     <td>08/03/2018</td>
                                     <td>$ 00,-</td>
                                     <td>NO</td>
@@ -76,7 +74,7 @@
                                     <th scope="row">04</th>
                                     <td>Pagada</td>
                                     <td>02/04/2018</td>
-                                    <td>$ 1350,-</td>
+                                    <td>$ 200,-</td>
                                     <td>06/04/2018</td>
                                     <td>$ 00,-</td>
                                     <td>NO</td>
@@ -87,7 +85,7 @@
                                     <th scope="row">05</th>
                                     <td>Vencida</td>
                                     <td>03/05/2018</td>
-                                    <td>$ 1350,-</td>
+                                    <td>$ 200,-</td>
                                     <td>--/--/--</td>
                                     <td>$ 132,-</td>
                                     <td>NO</td>
@@ -98,7 +96,7 @@
                                     <th scope="row">06</th>
                                     <td>Pendiente</td>
                                     <td>05/06/2018</td>
-                                    <td>$ 1350,-</td>
+                                    <td>$ 200,-</td>
                                     <td>--/--/--</td>
                                     <td>$ 00,-</td>
                                     <td>NO</td>
@@ -131,14 +129,14 @@
                                     <th scope="row">02</th>
                                     <td>Pagada</td>
                                     <td>02/02/2018</td>
-                                    <td>$ 3000,-</td>
+                                    <td>$ 2000,-</td>
                                     <td>05/02/2018</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">03</th>
                                     <td>Pagada</td>
                                     <td>04/03/2018</td>
-                                    <td>$ 3000,-</td>
+                                    <td>$ 1900,-</td>
                                     <td>08/03/2018</td>
                                 </tr>
                             </tbody>
