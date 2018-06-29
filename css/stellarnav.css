@@ -8,13 +8,13 @@
 .stellarnav { position: relative; width: 100%; z-index: 9900; line-height: normal; }
 .stellarnav ul { margin: 0; padding: 0; text-align: center; font-weight: bold; color: #444; }
 .stellarnav li { list-style: none; display: block; margin: 0; padding: 0; position: relative; line-height: normal; vertical-align: middle; }
-.stellarnav li a { padding: 15px; display: block; text-decoration: none; color: #; font-size: inherit; font-family: inherit; box-sizing: border-box; -webkit-transition: all .3s ease-out; -moz-transition: all .3s ease-out; transition: all .3s ease-out; }
+.stellarnav li a { padding: 10px; display: block; text-decoration: none; color: #; font-size: inherit; font-family: inherit; box-sizing: border-box; -webkit-transition: all .3s ease-out; -moz-transition: all .3s ease-out; transition: all .3s ease-out; }
 .stellarnav li:hover { background: #8f2723; }
 .stellarnav li a:hover { color: #ddd!important; }
 
 /* main level */
 .stellarnav > ul > li { display: inline-block;  }
-.stellarnav > ul > li > a { padding: 20px 40px; }
+.stellarnav > ul > li > a { padding: 10px; }
 
 /* first level dd */
 .stellarnav ul ul { top: auto; width: 220px; position: absolute; z-index: 9900; text-align: left; display: none; background: #ddd; }
@@ -46,7 +46,7 @@
 body.stellarnav-noscroll-x { overflow-x: hidden; }
 
 /* general styling */
-.stellarnav li.has-sub > a:after { content: '\f107'; font-family: 'FontAwesome'; margin-left: 10px; }
+.stellarnav li.has-sub > a:after { font-family: 'FontAwesome'; content: '\f107'; margin-left: 10px; }
 .stellarnav li li.has-sub > a:after { content: '\f105'; font-family: 'FontAwesome'; margin-left: 10px; }
 .stellarnav li.drop-left li.has-sub > a:after { float: left; content: '\f104'; font-family: 'FontAwesome'; margin-right: 10px; }
 .stellarnav.hide-arrows li.has-sub > a:after, .stellarnav.hide-arrows li li.has-sub > a:after, .stellarnav.hide-arrows li.drop-left li.has-sub > a:after { display: none; }

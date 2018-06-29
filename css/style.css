@@ -11,6 +11,22 @@ body {
     width: 200px!important;
     margin: 15px;
 }
+#ingresarform {
+    background:#eee;
+}
+#exampleCheck1 {
+    margin-left:0px;
+}
+#misdatos {
+    background:#eee;
+}
+#micuenta {
+    background:#eee;
+}
+.fas {
+    margin-right:10px;
+    font-size:1em;
+}
 .btn-primary {
     border: none;
     background: #8f2723;
@@ -18,6 +34,7 @@ body {
 .btn-primary:hover {
     border: none;
     background:#541715;
+    cursor:pointer!important;
 }
 .btn-light {
     border: 1px solid #fff;
