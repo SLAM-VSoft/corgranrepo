@@ -1,1 +1,30 @@
-/* To DO */ 
+runtime: php55
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /js
+  static_dir: js
+
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+
+- url: /
+  script: index.php
+  login: required
+  auth_fail_action: redirect
+
+- url: /admin
+  script: header.php
+  
+- url: /main
+  script: index.php
+  login: required
+  auth_fail_action: redirect
