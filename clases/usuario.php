@@ -59,7 +59,7 @@ class usuario {
          // Create connection
         $conn = $obj_coneccion->conectar();
         
-        $sql = "Delete from usuario where id_usuario ="$id_usuario;
+        $sql = "Delete from usuario where id_usuario ='$id_usuario'";
         
         mysqli_query($conn,$sql) or die(mysqli_error($conn));
         
@@ -68,7 +68,7 @@ class usuario {
 
     }
     
-    public function lista_usuarios():array
+    public function lista_usuarios()
     {
         
         $conn = $obj_coneccion->conectar();
