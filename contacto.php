@@ -9,23 +9,26 @@
 		<!-- CONTENIDO PRINCIPAL -->
 		<div class="row mb-3">
 			<div class="col-md-9">
-			    <h5>Ingresar</h5>
+			    <h5>Contacto</h5>
 			    <hr>
+			    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.0827193606256!2d-62.9952968847566!3d-40.80417601873539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95f6980a8f9a20df%3A0xaf5e99361f7583f5!2sSarmiento+505%2C+R8500ACK+Viedma%2C+R%C3%ADo+Negro!5e0!3m2!1sen!2sar!4v1530323564580" class="d-block w-100 mb-3" frameborder="0" style="border:0" allowfullscreen></iframe>
 			    <div class="row justify-content-md-center">
     			    <div id="ingresarform" class="col-sm-5 py-3">
-        			    <form  method="post" action="loggeado.php" >
-                            <div class="form-group">
-                                <label for="exampleInputEmail1">Usuario</label>
-                                <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email o Usuario">
-                                <small id="emailHelp" class="form-text text-muted">Ingrese el nombre de usuario</small>
+    			        <p><strong>Por favor, para contactarse con nosotros, complete el siguiente formulario.</strong><p>
+        			    <form>
+        			        <div class="form-group">
+                                <label for="nombre">Su nombre</label>
+                                <input type="text" class="form-control" id="nombre" placeholder="Nombre">
                             </div>
                             <div class="form-group">
-                                <label for="exampleInputPassword1">Contraseña</label>
-                                <input name="password" type="password" class="form-control" id="exampleInputPassword1" aria-describedby="passHelp" placeholder="Contraseña">
-                                <small id="passHelp" class="form-text text-muted">Ingrese su contraseña</small>
+                                <label for="email">Su E-Mail</label>
+                                <input type="email" class="form-control" id="email" placeholder="nombre@ejemplo.com">
                             </div>
-                            
-                            <button type="submit" class="btn btn-primary rounded-0">Ingresar</button>
+                            <div class="form-group">
+                                <label for="exampleFormControlTextarea1">Mensaje</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary rounded-0">Enviar</button>
                         </form>
                     </div>
                 </div>

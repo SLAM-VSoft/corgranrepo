@@ -26,13 +26,12 @@ session_start();
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/popper.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/stellarnav.min.js"></script>
+    <script type="text/javascript" src="js/stellarnav.js"></script>
     <script type="text/javascript" src="js/jssor.slider-27.1.0.min.js"></script>
     <!-- <script type="text/javascript" src="js/scripts.js"></script> -->
     
 </head>
 <body>
-<a id="back-to-top" href="#" class="btn btn-primary rounded-0 btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
     <div class="container-fluid">
 		<!-- HEADER -->
 	    <div class="row align-items-end mb-3">
@@ -55,27 +54,7 @@ session_start();
 							jQuery('.stellarnav').stellarNav({
 								theme: 'light',
 							});
-							$(window).scroll(function () {
-                            if ($(this).scrollTop() > 50) {
-                            $('#back-to-top').tooltip();
-                            $('#back-to-top').fadeIn();
-                            } else { $('#back-to-top').fadeOut();
-                            $('#back-to-top').tooltip('hide');}
-                            });
-
-// scroll body to 0px on click
-
-$('#back-to-top').click(function () {
-
-$('body,html').animate({
-
-scrollTop: 0
-
-}, 800);
-
-return false;
-
-});
+							
 /* Aquí comienza el bloque que se incluye solo en el index.php */
 							
 							var jssor_1_SlideoTransitions = [

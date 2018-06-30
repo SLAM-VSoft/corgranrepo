@@ -39,7 +39,7 @@
 				<h5>Links de interés</h5>
 			    <hr>
 			    <div class="accordion" id="accordionExample">
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingOne">
                             <h5 class="mb-0">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -54,7 +54,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingTwo">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -69,7 +69,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingThree">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -84,7 +84,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingfour">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -99,7 +99,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingFive">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
@@ -114,7 +114,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingSix">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
@@ -129,7 +129,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingSeven">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
@@ -144,7 +144,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingEight">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
@@ -159,7 +159,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingNine">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingTen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
@@ -189,7 +189,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingEleven">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
@@ -204,7 +204,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingTwelve">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
@@ -219,7 +219,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingThirteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
@@ -234,7 +234,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingFourteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
@@ -249,7 +249,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingFifteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
@@ -264,7 +264,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingSixteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">

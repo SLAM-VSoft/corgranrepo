@@ -1,5 +1,6 @@
 <?php
     require_once 'header.php';
+    //http://corgran.org/Archivos/Nota%20de%20Solicitud%20de%20Colegiaci%C3%B3n.pdf
 ?>
 <!-- /HEADER -->
     <div class="w-screen d-block hidden-sm-down mb-3">
@@ -13,73 +14,73 @@
 			    <div class="row mb-3 p-3">
 			        <div id="descargas" class="col-md-12 p-3">
 			            <div class="list-group">
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/ESTATUTO%20DEL%20COLEGIO%20RIONEGRINO%20DE%20GRADUADOS%20EN%20NUTRICION%20.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">Estatuto del Colegio Rionegrino de Graduados en Nutrición</p>
                                     <footer class="blockquote-footer">Aprobado en asamblea</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/Ley%204011.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">Ley 4011</p>
                                     <footer class="blockquote-footer">Ley de ejercicio profesional</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/NOMECLADOR%20DE%20M%C3%8DNIMOS%20%C3%89TICOS%202016.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">NOMECLADOR DE MÍNIMOS ÉTICOS 2016</p>
                                     <footer class="blockquote-footer">Son aranceles de referencia para el ejercicio de la profesión; se caracteriza por categorizar las actividades de la practica. En el año 2015-2016, se formo una comisión por integrantes del colegio quien elaboro el nomeclador que luego fue aprobado en el Consejo Directivo Provincial y presentado en la asamblea ordinaria del año 2016.</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/Ley%20de%20creaci%C3%B3n%20del%20Colegio%20Rionegrino%20de%20Graduados%20en%20Nutrici%C3%B3n.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">Ley de creación del Colegio Rionegrino de Graduados en Nutrición</p>
                                     <footer class="blockquote-footer">Los graduados en nutrición, tienen la obligación de colegiarse para el ejercicio ética de la profesión. Si conoce profesionales que ejercen sin estarlo, denuncie.</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/SOLICITUD%20DE%20CERTIFICADOS%20DE%20%C3%89TICA.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">SOLICITUD DE CERTIFICADOS DE ÉTICA</p>
                                     <footer class="blockquote-footer">SOLICITUD DE CERTIFICADOS DE ÉTICA.</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/REGLAMENTO%20DE%20%20DELEGACIONES%20.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">REGLAMENTO DE DELEGACIONES</p>
                                     <footer class="blockquote-footer">REGLAMENTO DE DELEGACIONES</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/ESTATUTO%20DEL%20COLEGIO%20RIONEGRINO%20DE%20GRADUADOS%20EN%20NUTRICION%20.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">ESTATUTO DEL COLEGIO RIONEGRINO DE GRADUADOS EN NUTRICION</p>
                                     <footer class="blockquote-footer">EN ASAMBLEA ORDINARIA FUERON MODIFICADOS DISTINTOS ARTICULOS REFERENTE A LA ORGANIZACION DEL COLEGIO Y PROMOVEER LA PARTICIPACION.</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="Nota de Solicitud de Colegiación.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">Nota de Solicitud de Colegiación</p>
                                     <footer class="blockquote-footer">Deberá llenar los campos y enviar original firmado.</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="REGLAMENTO DE COLEGIACION.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">REGLAMENTO DE COLEGIACION</p>
                                     <footer class="blockquote-footer">Este documento tiene todo la información detallada de los requisitos para colegiarse, solicitar la baja.</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/Boletin%20Informativo%20%20N%C2%BA1%20-2018.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">Boletin Informativo Nº1 -2018</p>
                                     <footer class="blockquote-footer">Actividades realizadas desde Nov 2017 a Abril 2018</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/Incumbencias%20%20del%20titulo%20de%20Lic.%20en%20Nutrici%C3%B3n%20%20%20.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">Incumbencias del titulo de Lic. en Nutrición</p>
                                     <footer class="blockquote-footer">Alcance de las incumbencias para dar asignaturas en las Escuelas Secundarias Rionegrinas</footer>
                                 </blockquote>
                             </a>
-                            <a href="#" class="list-group-item list-group-item-action" title="Descargar">
+                            <a href="http://corgran.org/Archivos/ASAMBLEA%20ORDINARIA%20%20%2026%20DE%20AGOSTO%20%202017.pdf" target="_blank" class="list-group-item list-group-item-action" title="Descargar">
                                 <blockquote class="blockquote">
                                     <p class="mb-0">ASAMBLEA ORDINARIA 26 DE AGOSTO 2017</p>
                                     <footer class="blockquote-footer">Asamblea Ordinaria Nº2</footer>
@@ -99,7 +100,7 @@
 				<h5>Links de interés</h5>
 			    <hr>
 			    <div class="accordion" id="accordionExample">
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingOne">
                             <h5 class="mb-0">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -114,7 +115,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingTwo">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -129,7 +130,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingThree">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -144,7 +145,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingfour">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -159,7 +160,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingFive">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
@@ -174,7 +175,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingSix">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
@@ -189,7 +190,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingSeven">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
@@ -204,7 +205,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingEight">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
@@ -219,7 +220,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingNine">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
@@ -234,7 +235,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingTen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
@@ -249,7 +250,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingEleven">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
@@ -264,7 +265,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingTwelve">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
@@ -279,7 +280,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingThirteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
@@ -294,7 +295,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingFourteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
@@ -309,7 +310,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingFifteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
@@ -324,7 +325,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card border-0 card-background">
+                    <div class="card border-0 rounded-0 card-background">
                         <div class="card-header" id="headingSixteen">
                             <h5 class="mb-0">
                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
